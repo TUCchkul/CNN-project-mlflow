@@ -2,5 +2,5 @@ name: CNN-MLflow_application
 
 conda_env: conda.yaml 
 entry_points: 
-    main:  
-      command: "python main.py"
+  main:  
+    command: "python main.py"
